@@ -1,12 +1,9 @@
-/* About Section */
-.about {
-    background: #3a6830;
-    border-radius: 0.5rem;
+/* Global Properties */
+html {
+    scroll-behavior: smooth;
 }
 
-.card {
-    border-bottom: 8px solid #115501; }
-
-.body {
-    color: rgb(255, 255, 255);
+body {
+    background: #252525;
+    font-family: "Baloo Tamma 2", cursive;
 }
